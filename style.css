@@ -23,10 +23,10 @@ body {
   border-radius: 3px;
 }
 
-.stats iframe {
-  width: 900px;
-  height: 600px;
-  margin: 50px 0 0 50px;
+
+.tweak-img {
+  position: absolute;
+  top: 0px;
 }
 
 .mono-bullets ul, .link p {
@@ -382,4 +382,8 @@ b .variable-name {
   left: 30px;
   top: 76px;
   -webkit-transform: rotate(-90deg);
+}
+
+.stressed-phones {
+  background: url(one/stressed-phones.jpg) white center no-repeat fixed;
 }
