@@ -1,0 +1,28 @@
+* jQuery Mobile: an introduction
+** start slides
+* Mobile
+** explosion of devices
+** browser diversity
+* Solutions
+** native (apps)
+** psuedo web
+** web
+* JQM
+** browser compat
+** semantic markup
+** progressive enhancement
+** browser normalization
+** themeroller
+** ? stats
+* Examples
+** pages
+** lists
+** forms
+** headers/footers
+** navbars
+** ? content injection
+* Roadmap
+** 1.1
+** builder
+** 1.2
+** 2.0
