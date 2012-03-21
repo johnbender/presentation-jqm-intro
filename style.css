@@ -23,9 +23,8 @@ body {
   border-radius: 3px;
 }
 
-
 .tweak-img {
-  position: absolute;
+  position: relative;
   top: 0px;
 }
 
