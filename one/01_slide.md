@@ -102,7 +102,7 @@ jquerymobile.com/gbs/
 why not <code>header</code> etc?
 
 !SLIDE
-### <code>ul == list == ul</code>
+### <code>&lt;ul&gt;</code> == list view == <code>&lt;ul&gt;</code>
 all your favorites are here
 
 !SLIDE
@@ -149,14 +149,14 @@ transitions, position fixed
 tyler benzinge @ Adobe
 
 <!-- !SLIDE center -->
-<!-- <iframe src="http://jquerymobile.com/themeroller/" style="width: 1024px; height: 768px;" scrolling="no"> </iframe> -->
+<!-- <iframe src="http://jquerymobile.com/themeroller/" scrolling="no"> </iframe> -->
 
 <!-- !SLIDE -->
 <!-- ### prototypers -->
 <!-- codiqa.com -->
 
 <!-- !SLIDE -->
-<!-- <iframe src="http://codiqa.com/embed/editor" style="width: 1024px; height: 768px;"> </iframe> -->
+<!-- <iframe src="http://codiqa.com/embed/editor"> </iframe> -->
 
 !SLIDE
 ## Quick Stats
@@ -182,38 +182,91 @@ news.ycombinator.com/item?id=3549640
 ## Pages
 
 !SLIDE
-<iframe src="code/document.html" style="height: 550px;" scrolling="no"> </iframe>
+### basics
 
 !SLIDE
-<iframe src="code/document-em-1.html" style="height: 550px;" scrolling="no"> </iframe>
+<iframe src="code/document.html" scrolling="no"> </iframe>
 
 !SLIDE
-<iframe src="code/document-em-2.html" style="height: 550px;" scrolling="no"> </iframe>
+<iframe src="code/document-em-1.html" scrolling="no"> </iframe>
 
 !SLIDE
-<iframe src="code/document-em-3.html" style="height: 550px;" scrolling="no"> </iframe>
+<iframe src="code/document-em-2.html" scrolling="no"> </iframe>
+
+!SLIDE
+<iframe src="code/document-em-3.html" scrolling="no"> </iframe>
 
 !SLIDE center
-<iframe src="code/basic-page.html" style="height: 700px; width: 900px;" scrolling="no"> </iframe>
-
-!SLIDE center
-<iframe src="code/basic-page-demo.html" style="height: 700px;" scrolling="no"> </iframe>
+<iframe src="code/basic-page-demo.html" scrolling="no"> </iframe>
 <iframe class="phone" src="samples/basic-page.html"> </iframe>
 
 !SLIDE center
-<iframe src="code/basic-page-demo-em-1.html" style="height: 700px;" scrolling="no"> </iframe>
+<iframe src="code/basic-page-demo-em-1.html" scrolling="no"> </iframe>
 <iframe class="phone" src="samples/basic-page.html"> </iframe>
 
 !SLIDE center
-<iframe src="code/basic-page-demo-em-2.html" style="height: 700px;" scrolling="no"> </iframe>
+<iframe src="code/basic-page-demo-em-2.html" scrolling="no"> </iframe>
 <iframe class="phone" src="samples/basic-page.html"> </iframe>
 
 !SLIDE center
-<iframe src="code/basic-page-demo-em-3.html" style="height: 700px;" scrolling="no"> </iframe>
+<iframe src="code/basic-page-demo-em-3.html" scrolling="no"> </iframe>
 <iframe class="phone" src="samples/basic-page.html"> </iframe>
 
+!SLIDE center
+<iframe src="code/basic-page-demo-em-3.html" scrolling="no"> </iframe>
+<iframe class="phone" src="samples/basic-page.html"> </iframe>
+
+!SLIDE
+### embedded pages
+
+!SLIDE center
+<iframe src="code/basic-page-transition.html" scrolling="no"> </iframe>
+<iframe class="phone" src="samples/basic-page-transition.html"> </iframe>
+
+!SLIDE center
+<iframe src="code/basic-page-transition-em-1.html" scrolling="no"> </iframe>
+<iframe class="phone" src="samples/basic-page-transition.html"> </iframe>
+
+!SLIDE center
+<iframe src="code/basic-page-transition-em-2.html" scrolling="no"> </iframe>
+<iframe class="phone" src="samples/basic-page-transition.html"> </iframe>
+
+!SLIDE center
+<iframe src="code/basic-page-transition-em-3.html" scrolling="no"> </iframe>
+<iframe class="phone" src="samples/basic-page-transition.html"> </iframe>
+
+!SLIDE center
+<iframe src="code/basic-page-transition-em-4.html" scrolling="no"> </iframe>
+<iframe class="phone" src="samples/basic-page-transition.html"> </iframe>
+
+!SLIDE
 ## Lists
 
+!SLIDE
+### <span class="monospace">&lt;ul&gt;</span> love'em
+
+!SLIDE center
+<iframe src="code/list.html" style="height: 768px;" scrolling="no"> </iframe>
+
+!SLIDE center
+<iframe src="code/list-demo.html" style="height: 768px;" scrolling="no"> </iframe>
+<iframe class="phone" src="samples/list.html"> </iframe>
+
+!SLIDE center
+<iframe src="code/list-demo-em-1.html" style="height: 768px;" scrolling="no"> </iframe>
+<iframe class="phone" src="samples/list.html"> </iframe>
+
+!SLIDE center
+<iframe src="code/list-demo-em-2.html" style="height: 768px;" scrolling="no"> </iframe>
+<iframe class="phone" src="samples/list.html"> </iframe>
+
+!SLIDE center
+<iframe src="code/inset-list-demo-em-1.html" style="height: 768px;" scrolling="no"> </iframe>
+<iframe class="phone" src="samples/inset-list.html"> </iframe>
+
+!SLIDE center
+<iframe src="code/inset-list-link-demo.html" style="height: 768px;" scrolling="no"> </iframe>
+<iframe class="phone" src="samples/inset-list-link.html"> </iframe>
 
 !SLIDE
 # Roadmap

@@ -5,7 +5,9 @@ body {
 
 
 iframe {
+  margin-top: 15px;
   width: 1024px;
+  height: 768px;
 }
 
 iframe.phone {
@@ -13,7 +15,7 @@ iframe.phone {
   width: 440px;
   position: absolute;
   right: 10px;
-  top: 33px;
+  top: 20px;
   border: 5px solid #D65600;
   border-radius: 3px;
 }
@@ -183,7 +185,6 @@ pre.extreme {
 
 /* code highlights */
 pre.xxxlarge {
-  margin-top: 30px;
   font-size: 1em;
 }
 
@@ -225,7 +226,6 @@ pre.medium {
 .content > pre {
   color: #333333;
   padding: 10px;
-  margin: 0 40px 0 40px;
   line-height: 1.4em;
   font-size: 3.5em;
 }

@@ -2,7 +2,7 @@
 <!-- Created by htmlize-1.36 in css mode. -->
 <html>
   <head>
-    <title>basic-page.html</title>
+    <title>basic-page-transition.html</title>
     <link rel="stylesheet" href="../file/style.css" />
   </head>
   <body>
@@ -21,8 +21,18 @@
         &lt;<span class="function-name">h1</span>&gt;<span class="underline"><span class="bold">Sample</span></span>&lt;/<span class="function-name">h1</span>&gt;
       &lt;/<span class="function-name">div</span>&gt;
 
-      <b>&lt;<span class="function-name">div</span> <span class="variable-name">data-role</span>=<span class="string">"content"</span>&gt;</b>
-        FOO!
+      &lt;<span class="function-name">div</span> <span class="variable-name">data-role</span>=<span class="string">"content"</span>&gt;
+        &lt;<span class="function-name">a</span> <span class="variable-name">href</span>=<span class="string">"#second"</span>
+           <span class="variable-name">data-role</span>=<span class="string">"button"</span>
+           <span class="variable-name">data-icon</span>=<span class="string">"arrow-r"</span>
+           <span class="variable-name">data-iconpos</span>=<span class="string">"right"</span>&gt;Second Page&lt;/<span class="function-name">a</span>&gt;
+      &lt;/<span class="function-name">div</span>&gt;
+    &lt;/<span class="function-name">div</span>&gt;
+
+    <b>&lt;<span class="function-name">div</span> <span class="variable-name">id</span>=<span class="string">"second"</span> <span class="variable-name">data-role</span>=<span class="string">"page"</span>&gt;</b>
+      &lt;<span class="function-name">div</span> <span class="variable-name">data-role</span>=<span class="string">"header"</span>&gt;
+        &lt;<span class="function-name">a</span> <span class="variable-name">href</span>=<span class="string">"#"</span> <span class="variable-name">data-rel</span>=<span class="string">"back"</span>&gt;Back&lt;/<span class="function-name">a</span>&gt;
+        &lt;<span class="function-name">h1</span>&gt;<span class="underline"><span class="bold">Sample</span></span>&lt;/<span class="function-name">h1</span>&gt;
       &lt;/<span class="function-name">div</span>&gt;
     &lt;/<span class="function-name">div</span>&gt;
   &lt;/<span class="function-name">body</span>&gt;
