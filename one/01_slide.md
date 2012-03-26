@@ -69,7 +69,7 @@ markup, css, and javascript
 # jQuery Mobile
 
 !SLIDE
-## browser support
+## Browser Support
 jquerymobile.com/gbs/
 
 !SLIDE bullets grid
@@ -94,7 +94,7 @@ jquerymobile.com/gbs/
 </div>
 
 !SLIDE
-## semantic markup
+## Semantic Markup
 ### ๏[-ิ_•ิ]๏
 
 !SLIDE
@@ -109,7 +109,7 @@ all your favorites are here
 code sample
 
 !SLIDE
-## progressive enhancement
+## Progressive Enhancement
 ### ( ˘ ³˘)♥
 
 !SLIDE
@@ -121,7 +121,7 @@ no js? no credit? no problem
 history api, android css animations
 
 !SLIDE
-## browser normalization
+## Browser Normalization
 ### └[∵┌]└[ ∵ ]┘[┐∵]┘
 
 !SLIDE
@@ -141,25 +141,25 @@ no, I'm afraid you're not
 transitions, position fixed
 
 !SLIDE
-## tooling
+## Tooling
 ### (⌐■_■)
 
 !SLIDE
 ### themeroller
 tyler benzinge @ Adobe
 
-!SLIDE center
-<iframe src="http://jquerymobile.com/themeroller/" style="width: 1024px; height: 768px;" scrolling="no"> </iframe>
+<!-- !SLIDE center -->
+<!-- <iframe src="http://jquerymobile.com/themeroller/" style="width: 1024px; height: 768px;" scrolling="no"> </iframe> -->
+
+<!-- !SLIDE -->
+<!-- ### prototypers -->
+<!-- codiqa.com -->
+
+<!-- !SLIDE -->
+<!-- <iframe src="http://codiqa.com/embed/editor" style="width: 1024px; height: 768px;"> </iframe> -->
 
 !SLIDE
-### prototypers
-codiqa.com
-
-!SLIDE
-<iframe src="http://codiqa.com/embed/editor" style="width: 1024px; height: 768px;"> </iframe>
-
-!SLIDE
-## quick stats
+## Quick Stats
 ### (=O*_*)=O Q(*_*Q)
 
 !SLIDE bullets
@@ -173,3 +173,79 @@ codiqa.com
 !SLIDE
 ### sentiment
 news.ycombinator.com/item?id=3549640
+
+!SLIDE
+# Examples
+### |(• ◡•)| (❍ᴥ❍ʋ)
+
+!SLIDE
+## Pages
+
+!SLIDE
+<iframe src="code/document.html" style="height: 550px;" scrolling="no"> </iframe>
+
+!SLIDE
+<iframe src="code/document-em-1.html" style="height: 550px;" scrolling="no"> </iframe>
+
+!SLIDE
+<iframe src="code/document-em-2.html" style="height: 550px;" scrolling="no"> </iframe>
+
+!SLIDE
+<iframe src="code/document-em-3.html" style="height: 550px;" scrolling="no"> </iframe>
+
+!SLIDE center
+<iframe src="code/basic-page.html" style="height: 700px; width: 900px;" scrolling="no"> </iframe>
+
+!SLIDE center
+<iframe src="code/basic-page-demo.html" style="height: 700px;" scrolling="no"> </iframe>
+<iframe class="phone" src="samples/basic-page.html"> </iframe>
+
+!SLIDE center
+<iframe src="code/basic-page-demo-em-1.html" style="height: 700px;" scrolling="no"> </iframe>
+<iframe class="phone" src="samples/basic-page.html"> </iframe>
+
+!SLIDE center
+<iframe src="code/basic-page-demo-em-2.html" style="height: 700px;" scrolling="no"> </iframe>
+<iframe class="phone" src="samples/basic-page.html"> </iframe>
+
+!SLIDE center
+<iframe src="code/basic-page-demo-em-3.html" style="height: 700px;" scrolling="no"> </iframe>
+<iframe class="phone" src="samples/basic-page.html"> </iframe>
+
+## Lists
+
+
+!SLIDE
+# Roadmap
+
+!SLIDE
+## 1.1
+
+!SLIDE
+### transitions
+much better, android still sucks
+
+!SLIDE
+### fixed toolbars
+fixed position, no scrolling region
+
+### AMD
+mostly for the build
+
+!SLIDE
+## 1.2
+
+!SLIDE
+### fetch links
+
+!SLIDE
+### other stuff?
+
+!SLIDE
+## 2.0
+
+!SLIDE
+### api cleanup
+
+!SLIDE
+### tablets
