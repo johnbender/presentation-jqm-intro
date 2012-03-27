@@ -2156,9 +2156,13 @@ $.widget( "mobile.page", $.mobile.widget, {
 function outInTransitionHandler( name, reverse, $to, $from ) {
 
 	// override name if there's no 3D transform support and a fallback is defined, or if not, to "none"
+
+	console.log( name );
 	if( name && !$.support.cssTransform3d && $.mobile.transitionFallbacks[ name ] ){
 		name = $.mobile.transitionFallbacks[ name ];
 	}
+
+	console.log( name );
 
 	var deferred = new $.Deferred(),
 		reverseClass = reverse ? " reverse" : "",
@@ -3281,10 +3285,13 @@ $.mobile.transitionFallbacks = {};
 			toPage.jqmData( "title", pageTitle );
 		}
 
+		console.log( settings.transition );
 		// Make sure we have a transition defined.
 		settings.transition = settings.transition
 			|| ( ( historyDir && !activeIsInitialPage ) ? active.transition : undefined )
 			|| ( isDialog ? $.mobile.defaultDialogTransition : $.mobile.defaultPageTransition );
+
+		console.log( settings.transition );
 
 		//add page to history stack if it's not back or forward
 		if( !historyDir ) {
@@ -3841,7 +3848,7 @@ $.mobile.transitionFallbacks.pop = "fade";
 
 (function( $, window, undefined ) {
 
-$.mobile.transitionFallbacks.slide = "fade";
+$.mobile.transitionFallbacks.slide = "slide";
 
 })( jQuery, this );
 
@@ -3881,7 +3888,7 @@ $.mobile.transitionFallbacks.flip = "fade";
 
 (function( $, window, undefined ) {
 
-$.mobile.transitionFallbacks.flow = "fade";
+$.mobile.transitionFallbacks.flow = "flow";
 
 })( jQuery, this );
 
@@ -7442,3 +7449,5 @@ $( document ).bind( "pagecreate create", function( e ){
 
 
 }));
+
+$.mobile.defaultPageTransition = "flow";

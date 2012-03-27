@@ -102,7 +102,7 @@ jquerymobile.com/gbs/
 why not <code>header</code> etc?
 
 !SLIDE
-### <code>&lt;ul&gt;</code> == list view == <code>&lt;ul&gt;</code>
+### <code>&lt;ul&gt;</code> == list == <code>&lt;ul&gt;</code>
 all your favorites are here
 
 !SLIDE
@@ -312,7 +312,6 @@ news.ycombinator.com/item?id=3549640
 !SLIDE
 <iframe src="highlights/navbar-demo-1-em-1.html" scrolling="no"> </iframe>
 <iframe class="phone" src="samples/navbar.html"> </iframe>
-
 
 !SLIDE
 # Roadmap
