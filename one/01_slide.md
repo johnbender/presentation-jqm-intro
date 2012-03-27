@@ -286,6 +286,34 @@ news.ycombinator.com/item?id=3549640
 <iframe src="highlights/form-demo-3-em-3.html" scrolling="no"> </iframe>
 <iframe class="phone" src="samples/form-3.html"> </iframe>
 
+!SLIDE center
+<div class="rotate-right" style="top: 109px; left: 28px"><h3>All Form</h3></div>
+<iframe class="phone-center" src="samples/form-all.html"> </iframe>
+
+!SLIDE center
+<div class="rotate-right" style="top: 137px;"><h3>Mini Form</h3></div>
+<iframe class="phone-center" src="samples/form-all-mini.html"> </iframe>
+
+!SLIDE
+## toolbars
+
+!SLIDE
+<iframe src="highlights/fixed-header-demo-1-em-1.html" scrolling="no"> </iframe>
+<iframe class="phone" src="samples/header-fixed.html"> </iframe>
+
+!SLIDE
+<iframe src="highlights/fixed-header-demo-1-em-2.html" scrolling="no"> </iframe>
+<iframe class="phone" src="samples/header-fixed.html"> </iframe>
+
+!SLIDE
+<iframe src="highlights/fixed-footer-demo-1-em-1.html" scrolling="no"> </iframe>
+<iframe class="phone" src="samples/footer-fixed.html"> </iframe>
+
+!SLIDE
+<iframe src="highlights/navbar-demo-1-em-1.html" scrolling="no"> </iframe>
+<iframe class="phone" src="samples/navbar.html"> </iframe>
+
+
 !SLIDE
 # Roadmap
 
@@ -300,6 +328,7 @@ much better, android still sucks
 ### fixed toolbars
 fixed position, no scrolling region
 
+!SLIDE
 ### AMD
 mostly for the build
 

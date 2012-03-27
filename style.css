@@ -10,6 +10,14 @@ iframe {
   height: 768px;
 }
 
+iframe.phone-center {
+  margin-top: 0px;
+  height: 660px;
+  width: 440px;
+  border: 5px solid #D65600;
+  border-radius: 3px;
+}
+
 iframe.phone {
   height: 660px;
   width: 440px;
@@ -389,9 +397,8 @@ b .variable-name {
 }
 
 .rotate-right {
+  text-align: right;
   position: absolute;
-  left: 30px;
-  top: 76px;
   -webkit-transform: rotate(-90deg);
 }
 
