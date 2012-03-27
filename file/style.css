@@ -72,6 +72,10 @@ iframe.phone {
   margin-top: 20px;
 }
 
+.bullets.grid.users ul {
+  margin-left: 80px;
+}
+
 .bullets.small li {
   font-size: 0.8em;
 }
@@ -403,4 +407,9 @@ b .variable-name {
 
 .stressed-phones {
   background: url(one/stressed-phones.jpg) white center no-repeat fixed;
+}
+
+.high-image {
+  position: absolute;
+  top: 100px;
 }
