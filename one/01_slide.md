@@ -8,6 +8,15 @@ johnbender.github.com/presentation-jqm-intro
 * johnbender.us
 * github.com/johnbender
 
+!SLIDE bullets mono-bullets
+## Projects
+* vagrant
+* jquerymobile
+
+!SLIDE
+## Emojicons.com
+### ლ(ಠ益ಠლ)
+
 !SLIDE
 # Mobile
 
@@ -69,6 +78,50 @@ markup, css, and javascript
 # jQuery Mobile
 
 !SLIDE
+## Users
+pffft! no one uses this crap
+
+!SLIDE bullets grid users
+<div style="float: left; margin-left: 100px">
+<ul>
+  <li> Sears </li>
+  <li> Chase </li>
+  <li> Ikea </li>
+  <li> Open Table </li>
+  <li> Stanford </li>
+</ul>
+</div>
+<div style="float: left">
+<ul>
+  <li> m.sears.com </li>
+  <li> m.chase.com </li>
+  <li> m.ikea.com </li>
+  <li> m.opentable.com </li>
+  <li> m.stanford.edu </li>
+</ul>
+</div>
+
+!SLIDE bullets grid users
+<div style="float: left; margin-left: 100px">
+<ul>
+  <li>Sears </li>
+  <li>Chase </li>
+  <li>Ikea </li>
+  <li>Open Table </li>
+  <li style="color: red">Stanford </li>
+</ul>
+</div>
+<div style="float: left">
+<ul>
+  <li>m.sears.com </li>
+  <li>m.chase.com </li>
+  <li>m.ikea.com </li>
+  <li>m.opentable.com </li>
+  <li style="color: red">m.stanford.edu </li>
+</ul>
+</div>
+
+!SLIDE
 ## Browser Support
 jquerymobile.com/gbs/
 
@@ -106,9 +159,6 @@ why not <code>header</code> etc?
 all your favorites are here
 
 !SLIDE
-code sample
-
-!SLIDE
 ## Progressive Enhancement
 ### ( ˘ ³˘)♥
 
@@ -129,6 +179,26 @@ history api, android css animations
 no, I'm afraid you're not
 
 !SLIDE
+### history api
+(push|pop|replace)State break spec
+
+!SLIDE
+### orientation
+180&#176;? 90&#176;? 0&#176;? 270&#176;?
+
+!SLIDE
+### tap vs click
+don't scroll, you'll be sorry
+
+!SLIDE high-image center
+<img src="droidincredible.jpg" style="height: 500px; float: left; margin-left: 155px;"></img>
+<img src="blackberry-bold.jpg" style="height: 480px; float: left; margin-top: 10px;"></img>
+
+!SLIDE
+### web views
+each browser x 2
+
+!SLIDE
 <h2 style="background-color: red; color: white; padding: 10px 0">android</h3>
 ### (╥﹏╥)
 
@@ -141,28 +211,32 @@ no, I'm afraid you're not
 transitions, position fixed
 
 !SLIDE
+## wai-aria
+www.w3.org/TR/wai-aria/
+
+!SLIDE
 ## Tooling
 ### (⌐■_■)
 
-<!-- !SLIDE -->
-<!-- ### themeroller -->
-<!-- tyler benzinge @ Adobe -->
+!SLIDE
+### themeroller
+tyler benzinge @ Adobe
 
-<!-- !SLIDE center -->
-<!-- <iframe src="http://jquerymobile.com/themeroller/" scrolling="no"> </iframe> -->
+!SLIDE center
+<iframe src="http://jquerymobile.com/themeroller/" scrolling="no" style="margin: 0px;"> </iframe>
 
-<!-- !SLIDE -->
-<!-- ### prototypers -->
-<!-- codiqa.com -->
+!SLIDE
+### prototypers
+codiqa.com
 
-<!-- !SLIDE -->
-<!-- <iframe src="http://codiqa.com/embed/editor"> </iframe> -->
+!SLIDE
+<iframe src="http://codiqa.com/embed/editor" style="margin: 0px"> </iframe>
 
 !SLIDE
 ## Quick Stats
 ### (=O*_*)=O Q(*_*Q)
 
-!SLIDE bullets
+!SLIDE
 ### github
 5000+ watchers / 1000+ forks
 
@@ -212,10 +286,6 @@ news.ycombinator.com/item?id=3549640
 <iframe src="highlights/basic-page-demo-em-3.html" scrolling="no"> </iframe>
 <iframe class="phone" src="samples/basic-page.html"> </iframe>
 
-!SLIDE center
-<iframe src="highlights/basic-page-demo-em-3.html" scrolling="no"> </iframe>
-<iframe class="phone" src="samples/basic-page.html"> </iframe>
-
 !SLIDE
 ### embedded pages
 
@@ -233,10 +303,6 @@ news.ycombinator.com/item?id=3549640
 
 !SLIDE center
 <iframe src="highlights/basic-page-transition-em-3.html" scrolling="no"> </iframe>
-<iframe class="phone" src="samples/basic-page-transition.html"> </iframe>
-
-!SLIDE center
-<iframe src="highlights/basic-page-transition-em-4.html" scrolling="no"> </iframe>
 <iframe class="phone" src="samples/basic-page-transition.html"> </iframe>
 
 !SLIDE center
@@ -311,7 +377,7 @@ news.ycombinator.com/item?id=3549640
 <iframe class="phone-center" src="samples/form-all-mini.html"> </iframe>
 
 !SLIDE
-## toolbars
+## Toolbars
 
 !SLIDE
 <iframe src="highlights/fixed-header-demo-1-em-1.html" scrolling="no"> </iframe>
@@ -360,7 +426,25 @@ mostly for the build
 ## 2.0
 
 !SLIDE
-### api cleanup
+### ¯ \ (º_o)/¯
 
 !SLIDE
-### tablets
+# Links
+
+!SLIDE
+## Docs
+jquerymobile.com/demos/
+
+!SLIDE
+## Resources
+jquerymobile.com/resources/
+
+!SLIDE
+## Gallery
+www.jqmgallery.com/
+
+!SLIDE bullets mono-bullets
+## Thanks!
+* @johnbender
+* johnbender.us
+* github.com/johnbender
