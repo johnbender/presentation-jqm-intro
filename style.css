@@ -376,7 +376,6 @@ b .variable-name {
 }
 
 .adobe-background {
-  background-image: url(one/adobe.jpg);
   background-position: center center;
   background-size: 800px 600px;
   background-repeat: no-repeat
