@@ -144,9 +144,9 @@ transitions, position fixed
 ## Tooling
 ### (⌐■_■)
 
-!SLIDE
-### themeroller
-tyler benzinge @ Adobe
+<!-- !SLIDE -->
+<!-- ### themeroller -->
+<!-- tyler benzinge @ Adobe -->
 
 <!-- !SLIDE center -->
 <!-- <iframe src="http://jquerymobile.com/themeroller/" scrolling="no"> </iframe> -->
@@ -238,6 +238,22 @@ news.ycombinator.com/item?id=3549640
 !SLIDE center
 <iframe src="highlights/basic-page-transition-em-4.html" scrolling="no"> </iframe>
 <iframe class="phone" src="samples/basic-page-transition.html"> </iframe>
+
+!SLIDE center
+<iframe src="highlights/basic-page-transition-em-4.html" scrolling="no"> </iframe>
+<iframe class="phone" src="samples/basic-page-transition.html"> </iframe>
+
+!SLIDE center
+<iframe src="highlights/basic-page-js-before-disabled-demo-1-em-1.html" scrolling="no"> </iframe>
+<iframe class="phone" src="samples/basic-page-js-before-disabled.html"> </iframe>
+
+!SLIDE center
+<iframe src="highlights/basic-page-js-disabled-demo-1-em-1.html" scrolling="no"> </iframe>
+<iframe class="phone" src="samples/basic-page-js-disabled.html"> </iframe>
+
+!SLIDE center
+<iframe src="highlights/basic-page-js-disabled-demo-1-em-2.html" scrolling="no"> </iframe>
+<iframe class="phone" src="samples/basic-page-js-disabled.html"> </iframe>
 
 !SLIDE
 ## Lists
